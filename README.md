@@ -1,2 +1,2 @@
 # Coffee
-Repositório que contém exercício de aprendizagem HTML
+Landing Page de um e-commerce de café.
